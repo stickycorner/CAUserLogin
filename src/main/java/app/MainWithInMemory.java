@@ -20,7 +20,7 @@ import view.ViewManager;
 public class MainWithInMemory {
 
     /**
-     * The main method for starting the program with an external database used to persist user data.
+     * The method for starting the program with an external database used to persist user data.
      * @param args input to main
      */
     public static void main(String[] args) {
